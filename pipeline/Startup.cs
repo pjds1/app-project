@@ -15,6 +15,7 @@ namespace pipeline
     {
         public Startup(IConfiguration configuration)
         {
+            //change on th code
             Configuration = configuration;
         }
 
